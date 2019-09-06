@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Home
+title: ''
 
 ---
 > A simple and elegant theme for Jekyll and GitHub Pages.
